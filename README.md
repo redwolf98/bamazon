@@ -1,4 +1,4 @@
 # bamazon
 Homework 12 - MySQL
 
-![alt text](http://url/to/img.png)
+![alt text](Photos/1.png)
